@@ -1,0 +1,14 @@
+{
+  "name": "TimerMap",
+  "version": "0.0.1",
+  "description": "TimerMap",
+  "main": "TimerMap.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rintiantta/TimerMap.git"
+  },
+  "author": "rintiantta",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "ead28d3d1b7df9029c9f6b988b486c435cb41335"
+}
