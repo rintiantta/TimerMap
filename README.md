@@ -1,0 +1,4 @@
+TimerMap
+========
+
+WeakMap with timer
